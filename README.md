@@ -2,7 +2,5 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the PH388 module for computational physics at university.
 - 📫 How to reach me: ... robert.hamilton.2017@uni.strath.ac.uk
