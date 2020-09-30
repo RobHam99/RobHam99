@@ -1,4 +1,4 @@
-## This is my GitHub, I am a 3rd year Physics student at Strathclyde University in the UK 👋
+## This is my GitHub, I am a 3rd year Physics student at Strathclyde University :scotland: 👋
 
 ### Current Project
 - 🔭 I’m currently working on the PH388 module for computational physics at university.
