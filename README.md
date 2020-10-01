@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on the PH388 module for computational physics at university.
 
 ### About
-- 📫 Email: -
+- 📫 Email: -  
 I am 3rd year Physics student @ Strathclyde
