@@ -5,4 +5,4 @@
 
 ### About
 - 📫 Email: -  
-I am 3rd year Physics student @ Strathclyde
+- I am 3rd year Physics student @ Strathclyde
