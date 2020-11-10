@@ -7,6 +7,12 @@ I’m currently working on the computational physics module at my university. Th
 - Jacobi Iteration Solver  
 - Finite Difference Method
 
+### Interests 
+- Physics  
+- Machine Learning
+- Animals  
+- Music & Playing Guitar
+
 ### About
 - 📫 Email: -  
 - I am 3rd year Physics student @ Strathclyde
