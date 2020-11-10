@@ -11,6 +11,4 @@ I’m currently working on the computational physics module at my university. Th
 - Physics  
 - Machine Learning
 
-### About
-- 📫 Email: -  
-- I am 3rd year Physics student @ Strathclyde
+
