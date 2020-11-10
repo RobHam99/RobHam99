@@ -10,8 +10,6 @@ I’m currently working on the computational physics module at my university. Th
 ### Interests 
 - Physics  
 - Machine Learning
-- Animals  
-- Music & Playing Guitar
 
 ### About
 - 📫 Email: -  
