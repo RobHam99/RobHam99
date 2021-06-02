@@ -6,5 +6,6 @@ Rewriting some computational physics algorithms that i made in python (rk2, velo
 ### Interests 
 - Physics  
 - Machine Learning
+- Getting into opensource (I'm a beginner)
 
 
